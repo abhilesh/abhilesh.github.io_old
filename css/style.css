@@ -1,3 +1,11 @@
+/* Fonts not working locally
+@font-face{
+  font-family: "Abhilesh Handwriting";
+  src: url('../fonts/Abhilesh_Handwriting-Regular.ttf'),
+  url('../fonts/Abhilesh_Handwriting-Regular.otf');
+}
+*/
+
 body {
   font-family: "Open Sans", Arial, sans-serif;
   font-weight: 400;
